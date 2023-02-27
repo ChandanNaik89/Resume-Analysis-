@@ -21,5 +21,6 @@ Q2.) What is Resume Screening?
 
 Sol: Choosing the right people for the job is the biggest responsibility of every business since choosing the right set of people can accelerate business growth exponentially.We will discuss here an example of such a business, which we know as the IT department. We know that the IT department falls short of growing markets.Due to many big projects with big companies, their team does not have time to read resumes and choose the best resume according to their requirements.To solve this type of problem, the company always chooses a third party whose job is to make the resume as per the requirement. These companies are known by the name of Hiring Service Organization. It’s all about the information resume screen. 
 
-3. Resume Screening using Machine Learning
-In this section, we will see the step-wise implementation of Resume screening using python.
+Q3.) Resume Screening using Machine Learning ?
+
+Sol: In this section, we will see the step-wise implementation of Resume screening using python.
