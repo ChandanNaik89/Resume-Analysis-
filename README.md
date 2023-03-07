@@ -23,4 +23,4 @@ Sol: Choosing the right people for the job is the biggest responsibility of ever
 
 Q3.) Resume Screening using Machine Learning ?
 
-Sol: In this section, we will see the step-wise implementation of Resume screening using python.
+Sol: In this section, we will see the step-wise implementation of Resume screening using python. 
