@@ -5,7 +5,7 @@
 
 2.) What is Resume Screening?
 
-3.) Resume Screening using Machine Learning
+3.) Resume Screening using Machine Learning 
  
 4.) Code
 
